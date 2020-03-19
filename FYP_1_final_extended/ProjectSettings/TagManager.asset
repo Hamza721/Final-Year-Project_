@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - game object
+  - upward
+  - upward_sink
+  - upward_sink_2
+  - upward_window
+  - upward_inside_bes
+  - Garage_shelf
+  - door
+  - move to the washroom of ground floor
+  - go inside the diningroom
+  - go upstaris
+  - move inside the house
+  - leave the house
+  - move towards launch
+  - move downstairs
+  - move to the room with attach washroom
+  - go inside the double bedroom
+  - go to the attach washroom
+  - go to the small single bedroom upstairs
+  - move to the small double bedroom upstairs
+  - move to kitchen
+  - move to the single bedroom
+  - move to the small single bedroom
+  - move to the small double bedroom
+  - 'move to the upstairs washroom '
+  - 'move to the kitichen '
+  - move to single bedroomm upsairs
+  - HouseWife
+  - gentleman
+  - doubleBedroom
+  - corner room
+  - bedroom with bath
+  - attach bath
+  - hide room
+  - shared bath
+  - double bedroom
+  - kitchen
+  - bathroom
+  - empty room
+  - diningroom
+  - stairs
+  - boy
+  - theif
+  - housewife
+  - centralroom
+  - corridor
+  - chair
+  - coffeeTable
+  - coffee table
+  - sofa
+  - singleSofa
+  - Sofa
+  - bigSofa
+  - kitchenSink
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
